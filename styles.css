@@ -10,10 +10,17 @@
   background-color: blue;
 }
 
+body {
+  padding:0;
+  marging:0;
+  background-color:yellow;
+}
+
 p {
   display: block;
   width: 400px;
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
   background-color: blue;
+  
 }
